@@ -1,0 +1,37 @@
+.body{
+    margin:0;
+    padding:0;
+}
+.container{
+    text-align: center;
+    display : flex;
+    gap:2rem;
+    justify-content: center;
+    align-items: center;
+    padding-top: 12rem;
+}
+.button{
+   
+    position:relative;
+   height:10rem;
+   width:10rem;
+   border-radius: 100px;
+   border:2px solid black;
+  
+}
+#blue{
+    background-color: blue;
+}
+#aqua{
+    background-color: aqua;
+
+}
+#white{
+    background-color: white;
+}
+#brown{
+    background-color: brown;
+}
+.heading{
+   text-align: center;
+}
